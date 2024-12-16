@@ -49,8 +49,8 @@ These methods are based on the following references:
 
 ```bash
 # Clone the repository
-git clone https://github.com/username/repo-name.git
-cd repo-name
+https://github.com/IPL-UV/karma_rvm.git
+cd karma_rvm
 ```
 
 3. **Add paths to MATLAB:**
